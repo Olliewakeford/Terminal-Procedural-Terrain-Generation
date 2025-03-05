@@ -20,7 +20,7 @@ Example of Midpoint Displacement terrain with colour renderer
 
 ## Requirements
 
-- .NET 6.0 or higher
+- .NET 8.0
 
 ## Installation
 
